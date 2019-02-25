@@ -16,7 +16,7 @@ h1 {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  text-align: left;
+  text-align: right;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   background-color: black;
@@ -47,7 +47,7 @@ h1 {
   background-color: black;
 
 }
-/* body-style*/
+/* ------------body-style--------------*/
 .mk1{
     width: 900px;
     height: 1000px;
@@ -59,7 +59,7 @@ h1 {
     box-shadow: 10px 15px 5px #cbcbcb;
     margin-top: 40px;
 }
-/*body-style*/
+/*------------------body-style----------------*/
 
 
 img {
